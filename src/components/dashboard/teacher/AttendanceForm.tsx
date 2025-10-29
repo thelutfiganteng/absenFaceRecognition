@@ -15,7 +15,7 @@ import { Camera, MapPin, Loader2, CheckCircle2, XCircle, RotateCcw } from "lucid
 import { Alert, AlertDescription } from "@/components/ui/alert";
 
 const TARGET_LAT = -2.979616780962736;
-const TARGET_LON = 104.731785395806; 
+const TARGET_LON = 104.73174075157662; 
 const MAX_DISTANCE = 150; // meters, 
 // -3.0000965401243174; 104.8085441647851;
 const AttendanceForm = () => {
